@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.demodeplay.DemoDeplayApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-16T06:02:39" hostname="DESKTOP-304U2MR" time="0.794">
+  <properties/>
+  <testcase name="contextLoads()" classname="org.example.demodeplay.DemoDeplayApplicationTests" time="0.794"/>
+  <system-out><![CDATA[15:02:37.041 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [org.example.demodeplay.DemoDeplayApplicationTests]: DemoDeplayApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:02:37.203 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration org.example.demodeplay.DemoDeplayApplication for test class org.example.demodeplay.DemoDeplayApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.1)
+
+2025-01-16T15:02:37.707+09:00  INFO 18380 --- [demo-deplay] [    Test worker] o.e.d.DemoDeplayApplicationTests         : Starting DemoDeplayApplicationTests using Java 17.0.12 with PID 18380 (started by r2com in C:\Users\r2com\Desktop\demo-deplay\demo-deplay)
+2025-01-16T15:02:37.710+09:00  INFO 18380 --- [demo-deplay] [    Test worker] o.e.d.DemoDeplayApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2025-01-16T15:02:39.209+09:00  INFO 18380 --- [demo-deplay] [    Test worker] o.e.d.DemoDeplayApplicationTests         : Started DemoDeplayApplicationTests in 1.796 seconds (process running for 3.267)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
